@@ -1,2 +1,2 @@
 Visit the website using the link:
-https://github.com/HusenYG/Product-Landing-Page/index.html
+https://husenyg.github.io/Product-Landing-Page/
